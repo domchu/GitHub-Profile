@@ -1,14 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,200;1,300&display=swap");
 * {
   margin: 0;
   padding: 0;
   list-style-type: none;
+  font-family: poppins;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
 }
 
 body {
   background-color: #2a2a72;
-  font-family: "Ppopins" sans-serif;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
