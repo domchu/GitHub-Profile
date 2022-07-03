@@ -26,6 +26,12 @@ body {
           flex-direction: column;
 }
 
+h2 {
+  color: #fff;
+  margin-bottom: 2rem;
+  font-size: 2rem;
+}
+
 .card {
   background-color: #600c75;
   background-image: linear-gradient(315deg, #3b2066 0%, #4c11ac 75%);
