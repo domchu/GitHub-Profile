@@ -29,7 +29,7 @@ function createUserCard(user) {
      <ul class="info">
      <li>Followers: ${user.followers}</li>
      <li>Following: ${user.following}</li>
-     <li>GitHub Respository: ${user.public_repos}</li>
+     <li>GitHub Respositories: ${user.public_repos}</li>
      </ul>
      </div>
      </div>
